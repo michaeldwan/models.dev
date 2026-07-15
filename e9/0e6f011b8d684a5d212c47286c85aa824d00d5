@@ -1,0 +1,23 @@
+packages/core/test/fixtures/cloudflare-workers-ai-native.json
+  s_5e1ce5a768bce9::t_0750005e1b470c 1
+packages/core/src/sync/providers/cloudflare-workers-ai.ts
+  s_5e1ce5a768bce9::t_24f90ec6250006 61-220,225,234-237,239,242-250,252-263,269,305,332-365,370-378,380
+packages/core/test/sync.test.ts
+  s_5e1ce5a768bce9::t_be581f356f1f1e 2,13-18,37,1357-1491
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e90e6f011b8d684a5d212c47286c85aa824d00d5",
+  "prompts": {},
+  "sessions": {
+    "s_5e1ce5a768bce9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f4e75-aa07-7842-bd9b-664e6c2e1f10",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
