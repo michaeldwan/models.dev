@@ -1,0 +1,95 @@
+providers/cloudflare-workers-ai/models/@cf/ai4bharat/indictrans2-en-indic-1B.toml
+  s_5e1ce5a768bce9::t_5d9197abc0cec5 1-24
+providers/cloudflare-workers-ai/models/@cf/baai/bge-base-en-v1.5.toml
+  s_5e1ce5a768bce9::t_68f0e945a4be81 1-25
+providers/cloudflare-workers-ai/models/@cf/baai/bge-large-en-v1.5.toml
+  s_5e1ce5a768bce9::t_254625ea0fe097 1-25
+providers/cloudflare-workers-ai/models/@cf/baai/bge-m3.toml
+  s_5e1ce5a768bce9::t_51978c11401ee1 1-25
+providers/cloudflare-workers-ai/models/@cf/baai/bge-reranker-base.toml
+  s_5e1ce5a768bce9::t_8fd256e05873c5 1-25
+providers/cloudflare-workers-ai/models/@cf/baai/bge-small-en-v1.5.toml
+  s_5e1ce5a768bce9::t_8ffaf2a8f5390e 1-25
+providers/cloudflare-workers-ai/models/@cf/black-forest-labs/flux-1-schnell.toml
+  s_5e1ce5a768bce9::t_fee0d0e0ee35ef 1-21
+providers/cloudflare-workers-ai/models/@cf/black-forest-labs/flux-2-dev.toml
+  s_5e1ce5a768bce9::t_c51f77dba4308e 1-21
+providers/cloudflare-workers-ai/models/@cf/black-forest-labs/flux-2-klein-4b.toml
+  s_5e1ce5a768bce9::t_6d926922da3cf9 1-21
+providers/cloudflare-workers-ai/models/@cf/black-forest-labs/flux-2-klein-9b.toml
+  s_5e1ce5a768bce9::t_3acb4a07df0e03 1-21
+providers/cloudflare-workers-ai/models/@cf/bytedance/stable-diffusion-xl-lightning.toml
+  s_5e1ce5a768bce9::t_08e1f6ef36dc81 1-21
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-1.toml
+  s_5e1ce5a768bce9::t_becaf5eee12f23 1-26
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-2-en.toml
+  s_5e1ce5a768bce9::t_c3dbb7bf106af7 1-26
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-2-es.toml
+  s_5e1ce5a768bce9::t_9efb0d0d0618c5 1-26
+providers/cloudflare-workers-ai/models/@cf/deepgram/flux.toml
+  s_5e1ce5a768bce9::t_e0afe1b5d87b24 1-26
+providers/cloudflare-workers-ai/models/@cf/deepgram/nova-3.toml
+  s_5e1ce5a768bce9::t_f803ccb073f5e0 1-26
+providers/cloudflare-workers-ai/models/@cf/google/embeddinggemma-300m.toml
+  s_5e1ce5a768bce9::t_4425340a8b95c0 1-20
+providers/cloudflare-workers-ai/models/@cf/google/gemma-2b-it-lora.toml
+  s_5e1ce5a768bce9::t_4f3fcd6f16e672 1-21
+providers/cloudflare-workers-ai/models/@cf/google/gemma-7b-it-lora.toml
+  s_5e1ce5a768bce9::t_65f6b1aaf4b30b 1-21
+providers/cloudflare-workers-ai/models/@cf/huggingface/distilbert-sst-2-int8.toml
+  s_5e1ce5a768bce9::t_67d8ecec18f7b2 1-25
+providers/cloudflare-workers-ai/models/@cf/leonardo/lucid-origin.toml
+  s_5e1ce5a768bce9::t_7c92879d66a12f 1-21
+providers/cloudflare-workers-ai/models/@cf/leonardo/phoenix-1.0.toml
+  s_5e1ce5a768bce9::t_8e9f286af46356 1-21
+providers/cloudflare-workers-ai/models/@cf/llava-hf/llava-1.5-7b-hf.toml
+  s_5e1ce5a768bce9::t_f6c3c11f595ae5 1-21
+providers/cloudflare-workers-ai/models/@cf/lykon/dreamshaper-8-lcm.toml
+  s_5e1ce5a768bce9::t_eac55476ad3920 1-21
+providers/cloudflare-workers-ai/models/@cf/meta-llama/llama-2-7b-chat-hf-lora.toml
+  s_5e1ce5a768bce9::t_4e46e076d7eff4 1-21
+providers/cloudflare-workers-ai/models/@cf/meta/m2m100-1.2b.toml
+  s_5e1ce5a768bce9::t_a6d8dabe10e5ae 1-24
+providers/cloudflare-workers-ai/models/@cf/microsoft/resnet-50.toml
+  s_5e1ce5a768bce9::t_f1241ce48ac61f 1-21
+providers/cloudflare-workers-ai/models/@cf/mistral/mistral-7b-instruct-v0.2-lora.toml
+  s_5e1ce5a768bce9::t_435a68bd2861c4 1-21
+providers/cloudflare-workers-ai/models/@cf/moondream/moondream3.1-9B-A2B.toml
+  s_5e1ce5a768bce9::t_be81d00da03c0b 1-24
+providers/cloudflare-workers-ai/models/@cf/myshell-ai/melotts.toml
+  s_5e1ce5a768bce9::t_7aabf35708b765 1-26
+providers/cloudflare-workers-ai/models/@cf/openai/whisper-large-v3-turbo.toml
+  s_5e1ce5a768bce9::t_318001a3482f48 1-26
+providers/cloudflare-workers-ai/models/@cf/openai/whisper-tiny-en.toml
+  s_5e1ce5a768bce9::t_df2fa4c73f592f 1-21
+providers/cloudflare-workers-ai/models/@cf/openai/whisper.toml
+  s_5e1ce5a768bce9::t_d6b920767e2eff 1-26
+providers/cloudflare-workers-ai/models/@cf/pfnet/plamo-embedding-1b.toml
+  s_5e1ce5a768bce9::t_5275591078ad3b 1-25
+providers/cloudflare-workers-ai/models/@cf/pipecat-ai/smart-turn-v2.toml
+  s_5e1ce5a768bce9::t_9960320f5c0861 1-26
+providers/cloudflare-workers-ai/models/@cf/qwen/qwen3-embedding-0.6b.toml
+  s_5e1ce5a768bce9::t_effa4567cf0bf1 1-25
+providers/cloudflare-workers-ai/models/@cf/runwayml/stable-diffusion-v1-5-img2img.toml
+  s_5e1ce5a768bce9::t_63485bc5e0a126 1-21
+providers/cloudflare-workers-ai/models/@cf/runwayml/stable-diffusion-v1-5-inpainting.toml
+  s_5e1ce5a768bce9::t_328e27d53d6528 1-21
+providers/cloudflare-workers-ai/models/@cf/stabilityai/stable-diffusion-xl-base-1.0.toml
+  s_5e1ce5a768bce9::t_81c8d6e37badab 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "78e937230edf1d6da8d9520e742d12e6e2a79302",
+  "prompts": {},
+  "sessions": {
+    "s_5e1ce5a768bce9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f4e75-aa07-7842-bd9b-664e6c2e1f10",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
