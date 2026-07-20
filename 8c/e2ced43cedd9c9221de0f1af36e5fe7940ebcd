@@ -1,0 +1,31 @@
+providers/cloudflare-workers-ai/models/@cf/baai/bge-reranker-base.toml
+  s_42957c3e9b7fd9::t_43d115235f9d2d 2
+providers/cloudflare-workers-ai/models/@cf/black-forest-labs/flux-1-schnell.toml
+  s_42957c3e9b7fd9::t_47ef7419b5a7c9 2
+providers/cloudflare-workers-ai/models/@cf/google/gemma-7b-it-lora.toml
+  s_42957c3e9b7fd9::t_548e12c54bb6cb 2
+providers/cloudflare-workers-ai/models/@cf/leonardo/lucid-origin.toml
+  s_42957c3e9b7fd9::t_a35a0fa37ad4f3 2
+providers/cloudflare-workers-ai/models/@cf/meta-llama/llama-2-7b-chat-hf-lora.toml
+  s_42957c3e9b7fd9::t_adad937253fce6 2
+providers/cloudflare-workers-ai/models/@cf/qwen/qwen3-embedding-0.6b.toml
+  s_42957c3e9b7fd9::t_8adce12b671e68 2
+providers/cloudflare-workers-ai/models/@cf/runwayml/stable-diffusion-v1-5-img2img.toml
+  s_42957c3e9b7fd9::t_2b26d75dae2a13 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8ce2ced43cedd9c9221de0f1af36e5fe7940ebcd",
+  "prompts": {},
+  "sessions": {
+    "s_42957c3e9b7fd9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f7ff3-fc96-7f35-aca6-bfeebd6ecb9c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
