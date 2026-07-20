@@ -1,0 +1,27 @@
+packages/core/src/sync/providers/cloudflare-workers-ai.ts
+  s_3a2d84efccd381::t_ab65275cbf0e89 275-285,291-293,297,300-302,315-328,350-376
+packages/core/src/sync/providers/openrouter.ts
+  s_3a2d84efccd381::t_a78a6d6fe790f3 219-223
+packages/core/test/sync.test.ts
+  s_3a2d84efccd381::t_499bad638c237f 16,18,1418-1460
+providers/cloudflare-workers-ai/models/@cf/openai/whisper-large-v3-turbo.toml
+  s_3a2d84efccd381::t_7ef1e17b7cb049 1
+providers/cloudflare-workers-ai/models/@cf/zai-org/glm-4.7-flash.toml
+  s_3a2d84efccd381::t_58cf718c37f479 4,11-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7f4c84f70b6c1860b97e776336717ed04387da41",
+  "prompts": {},
+  "sessions": {
+    "s_3a2d84efccd381": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f800e-0fc7-7d35-aced-7bb6debd807d",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
