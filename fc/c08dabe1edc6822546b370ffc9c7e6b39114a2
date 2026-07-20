@@ -1,0 +1,41 @@
+packages/core/src/sync/index.ts
+  s_65a9b6275eb645::t_e2e8fa25c26d1e 80-85,173,250-253,256-257,328-332
+packages/core/src/sync/providers/cloudflare-workers-ai.ts
+  s_65a9b6275eb645::t_4aea4723474755 194-212,217-220,223-224,228-233,237-242,244,282-283
+packages/core/test/sync.test.ts
+  s_65a9b6275eb645::t_286e5116f739b0 14,1209-1285,1496-1516
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-1.toml
+  s_65a9b6275eb645::t_fbf866febc0fbb 1
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-2-en.toml
+  s_65a9b6275eb645::t_76edc85124b224 1
+providers/cloudflare-workers-ai/models/@cf/deepgram/aura-2-es.toml
+  s_65a9b6275eb645::t_bb8e906e7aca9a 1
+providers/cloudflare-workers-ai/models/@cf/deepgram/flux.toml
+  s_65a9b6275eb645::t_07074a64b0b215 1
+providers/cloudflare-workers-ai/models/@cf/deepgram/nova-3.toml
+  s_65a9b6275eb645::t_a05fe600b96813 1
+providers/cloudflare-workers-ai/models/@cf/myshell-ai/melotts.toml
+  s_65a9b6275eb645::t_814bcceb974677 1
+providers/cloudflare-workers-ai/models/@cf/openai/whisper-large-v3-turbo.toml
+  s_65a9b6275eb645::t_aa16a0f6ad1897 1
+providers/cloudflare-workers-ai/models/@cf/openai/whisper.toml
+  s_65a9b6275eb645::t_02e5795545fbd2 1
+providers/cloudflare-workers-ai/models/@cf/pipecat-ai/smart-turn-v2.toml
+  s_65a9b6275eb645::t_91f24cf5cb68d4 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fcc08dabe1edc6822546b370ffc9c7e6b39114a2",
+  "prompts": {},
+  "sessions": {
+    "s_65a9b6275eb645": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8019-93a5-715f-b9c6-bf79b7fdb9c0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
