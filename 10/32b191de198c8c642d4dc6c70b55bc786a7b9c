@@ -1,0 +1,48 @@
+packages/core/src/family.ts
+  s_b8e7d9d0d6703a::t_9952ea3d6d3e41 452-468
+packages/core/test/sync.test.ts
+  s_b8e7d9d0d6703a::t_9305678aa8c633 6,43,1561-1638
+  s_65a9b6275eb645::t_286e5116f739b0 14,1210-1286,1497-1517
+  s_3a2d84efccd381::t_499bad638c237f 17,19,1518-1560
+packages/core/src/sync/providers/cloudflare-workers-ai.ts
+  s_65a9b6275eb645::t_4aea4723474755 194-212,217-220,223-224,228-233,237-242,244,286
+  s_3a2d84efccd381::t_ab65275cbf0e89 303-313,319-321,328-330,343-356,378-404
+  s_b8e7d9d0d6703a::t_484c63c0bb8c77 282-285,301,325
+packages/core/src/sync/providers/openrouter.ts
+  s_b8e7d9d0d6703a::t_b926d53dd0b98c 6,153,161,174,189,191-197,264-272
+  s_3a2d84efccd381::t_a78a6d6fe790f3 227-231
+packages/core/src/sync/index.ts
+  s_65a9b6275eb645::t_e2e8fa25c26d1e 80-85,173,250-253,256-257,328-332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1032b191de198c8c642d4dc6c70b55bc786a7b9c",
+  "prompts": {},
+  "sessions": {
+    "s_3a2d84efccd381": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f800e-0fc7-7d35-aced-7bb6debd807d",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    },
+    "s_65a9b6275eb645": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8019-93a5-715f-b9c6-bf79b7fdb9c0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    },
+    "s_b8e7d9d0d6703a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8027-b111-7bbd-a3d3-1e223ae4f163",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
