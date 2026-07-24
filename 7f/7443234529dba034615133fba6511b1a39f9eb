@@ -1,0 +1,19 @@
+sync.md
+  s_edfa9bf684fb50::t_f0a2445cce2f12 169-171,174-176,178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7f7443234529dba034615133fba6511b1a39f9eb",
+  "prompts": {},
+  "sessions": {
+    "s_edfa9bf684fb50": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f9671-9b60-71c3-ab8d-c78c2c2dde27",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
