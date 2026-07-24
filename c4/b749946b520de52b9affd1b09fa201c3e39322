@@ -1,0 +1,21 @@
+providers/cloudflare-workers-ai/models/@cf/runwayml/stable-diffusion-v1-5-img2img.toml
+  s_fe59d73c51f1c9::t_eb59f533d16dee 6,18
+providers/cloudflare-workers-ai/models/@cf/runwayml/stable-diffusion-v1-5-inpainting.toml
+  s_fe59d73c51f1c9::t_340b17aba1cde5 6,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c4b749946b520de52b9affd1b09fa201c3e39322",
+  "prompts": {},
+  "sessions": {
+    "s_fe59d73c51f1c9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f9621-c29c-73b9-adf9-c018faba50d1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
