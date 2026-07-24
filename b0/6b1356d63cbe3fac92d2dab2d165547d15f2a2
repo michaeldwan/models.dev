@@ -1,0 +1,795 @@
+.github/workflows/ci-fixer.yml
+  s_fe59d73c51f1c9::t_2795a8a368590f 143
+.github/workflows/issue-fixer.yml
+  s_fe59d73c51f1c9::t_6f7b0e55c6332a 6-7,14,18-23,27,35-41,53,56-63,65,86,89
+.github/workflows/opencode.yml
+  s_fe59d73c51f1c9::t_b8d31be8c7088f 30
+.github/workflows/pr-reviewer.yml
+  s_fe59d73c51f1c9::t_88ddb7f27b7133 63
+.github/workflows/sync-models.yml
+  s_fe59d73c51f1c9::t_a8548564e008f4 66
+AGENTS.md
+  s_fe59d73c51f1c9::t_d6678b675f6774 122-124
+labs/poolside/lab.toml
+  s_fe59d73c51f1c9::t_2f2a08e9884b0d 1
+labs/poolside/logo.svg
+  s_fe59d73c51f1c9::t_b0fced977fc4f3 1-3
+models/alibaba/qwen3.6-plus.toml
+  s_fe59d73c51f1c9::t_adafea10d5c5a3 6
+models/alibaba/qwen3.7-plus.toml
+  s_fe59d73c51f1c9::t_ee52d5b19911c3 6,18
+models/alibaba/qwen3.8-max-preview.toml
+  s_fe59d73c51f1c9::t_6948d71fcc1700 1-30
+models/anthropic/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_29e05862f6c14e 1-5,11,14
+models/google/deep-research-max-preview-04-2026.toml
+  s_fe59d73c51f1c9::t_a40ad2c1da55a8 1-24
+models/google/deep-research-preview-04-2026.toml
+  s_fe59d73c51f1c9::t_e6db4b8a340764 1-24
+models/google/gemini-2.5-computer-use-preview-10-2025.toml
+  s_fe59d73c51f1c9::t_8615f27d2eb3b2 1-27
+models/google/gemini-3.1-flash-lite-image.toml
+  s_fe59d73c51f1c9::t_dd41ac16721778 1-25
+models/google/gemini-3.1-flash-live-preview.toml
+  s_fe59d73c51f1c9::t_76164dd4e1f768 1-24
+models/google/gemini-3.1-flash-tts-preview.toml
+  s_fe59d73c51f1c9::t_7aec9b3e2aaf50 1-9,14,18-19,23
+models/google/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_742f3438686b01 1-5,8,11,15-16,19-20
+models/google/gemini-3.5-live-translate-preview.toml
+  s_fe59d73c51f1c9::t_0805ebafe14de0 1-24
+models/google/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_919d891ed6c0d6 1-20
+models/google/gemini-embedding-2.toml
+  s_fe59d73c51f1c9::t_55e2e064125a2a 1-19
+models/google/gemini-robotics-er-1.6-preview.toml
+  s_fe59d73c51f1c9::t_223360c802b152 1-26
+models/google/lyria-3-clip-preview.toml
+  s_fe59d73c51f1c9::t_69c26060de1a51 1-25
+models/google/lyria-3-pro-preview.toml
+  s_fe59d73c51f1c9::t_b7733e5b701979 1-26
+models/google/veo-3.1-fast-generate-preview.toml
+  s_fe59d73c51f1c9::t_4815c6d85e755b 1-18
+models/google/veo-3.1-generate-preview.toml
+  s_fe59d73c51f1c9::t_d44b5cbb96f124 1-10,12,14,18-19,23
+models/google/veo-3.1-lite-generate-preview.toml
+  s_fe59d73c51f1c9::t_1885b23e345700 1-26
+models/moonshotai/kimi-k2.5.toml
+  s_fe59d73c51f1c9::t_d86e221c479ff2 6
+models/moonshotai/kimi-k3.toml
+  s_fe59d73c51f1c9::t_9468737ff44f8f 8
+models/poolside/laguna-m.1.toml
+  s_fe59d73c51f1c9::t_52a430f130c14d 2
+models/poolside/laguna-s-2.1.toml
+  s_fe59d73c51f1c9::t_791f394f42f3af 1-19
+models/tencent/hy3.toml
+  s_fe59d73c51f1c9::t_cea052c143ddee 1,3,13-14,19-28
+models/thinkingmachines/inkling.toml
+  s_fe59d73c51f1c9::t_f3e390221206e8 1,16,19,22
+models/xai/grok-imagine-video-1.5.toml
+  s_fe59d73c51f1c9::t_b8353d1d70f047 1-10,12,14,18-19,22-23
+packages/core/src/family.ts
+  s_fe59d73c51f1c9::t_474bd629454b44 85
+packages/core/src/sync/index.ts
+  s_fe59d73c51f1c9::t_2b95a94b67df47 7,65-68,70-71,77-81,167,199-200,205,387,390-418,992-994
+packages/core/src/sync/missing-issues.ts
+  s_fe59d73c51f1c9::t_9d15da84a070bc 1-184
+packages/core/src/sync/providers/anthropic.ts
+  s_fe59d73c51f1c9::t_8f329e3f6f26ce 5-6,314-327,330,335-339,341-342,344-349,375,378,380-381,384
+packages/core/src/sync/providers/google.ts
+  s_fe59d73c51f1c9::t_ca4eb0e9355a00 32-45,51-53,55-56
+packages/core/src/sync/providers/openai.ts
+  s_fe59d73c51f1c9::t_08469f080f4783 59-61
+packages/core/src/sync/providers/pioneer.ts
+  s_fe59d73c51f1c9::t_d7b8890ee8d61f 95-97
+packages/core/src/sync/providers/venice.ts
+  s_fe59d73c51f1c9::t_558eaa641ae615 209-228
+packages/core/src/sync/providers/vercel.ts
+  s_fe59d73c51f1c9::t_2b8848e3df5d78 137
+packages/core/src/sync/providers/xai.ts
+  s_fe59d73c51f1c9::t_213a44c6235d34 42-45,75-78
+packages/core/test/sync.test.ts
+  s_fe59d73c51f1c9::t_193e1b693f2bbe 46-47,191-192,197-267,335-352,1046-1047,1052-1053,1068-1069,1074-1075,1228-1314
+providers/aiand/logo.svg
+  s_fe59d73c51f1c9::t_86ef425a3212b2 1-5
+providers/aiand/models/deepseek-ai/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_1282ed56802772 1-20
+providers/aiand/models/deepseek-ai/deepseek-v4-pro.toml
+  s_fe59d73c51f1c9::t_1b014f57cc5b1d 1-19
+providers/aiand/models/google/gemma-4-31b-it.toml
+  s_fe59d73c51f1c9::t_fe6990d89ef828 1-22
+providers/aiand/models/moonshotai/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_f8470d8938610e 1-20
+providers/aiand/models/moonshotai/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_e7d9877fe14b89 1-20
+providers/aiand/models/openai/gpt-oss-120b.toml
+  s_fe59d73c51f1c9::t_955cdcf159148d 1-14
+providers/aiand/models/qwen/qwen3.6-27b.toml
+  s_fe59d73c51f1c9::t_60ff457df5618d 1-24
+providers/aiand/models/zai-org/glm-5.1.toml
+  s_fe59d73c51f1c9::t_cd6afe4a9b7251 1-17
+providers/aiand/models/zai-org/glm-5.2.toml
+  s_fe59d73c51f1c9::t_e3b2840a86c9a9 1-19
+providers/aiand/provider.toml
+  s_fe59d73c51f1c9::t_85563e37b120dd 1-5
+providers/aki-io/logo.svg
+  s_fe59d73c51f1c9::t_781bba1170375d 1-8
+providers/aki-io/models/gemma4-26b.toml
+  s_fe59d73c51f1c9::t_0b601908b6f006 1-3,5-6,9-10,13-14
+providers/aki-io/models/gpt-oss-120b.toml
+  s_fe59d73c51f1c9::t_1d202d361d5fdd 1-2,8-9,12-13
+providers/aki-io/models/kimi-k2.7-code-1100b.toml
+  s_fe59d73c51f1c9::t_c3fd0d6936e93f 1-16
+providers/aki-io/models/minimax-m2.5-230b.toml
+  s_fe59d73c51f1c9::t_7a8207bba074d3 1-12
+providers/aki-io/models/mistral4-119b.toml
+  s_fe59d73c51f1c9::t_7646ad285cedbe 1-4,6,9-10,13-14
+providers/aki-io/models/qwen3.6-35b.toml
+  s_fe59d73c51f1c9::t_d76667e4ed6e51 1-17
+providers/aki-io/provider.toml
+  s_fe59d73c51f1c9::t_54a6f28824966d 1-5
+providers/alibaba-token-plan-cn/models/MiniMax-M2.5.toml
+  s_fe59d73c51f1c9::t_417be20de463a2 5-6,23
+providers/alibaba-token-plan-cn/models/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_f19f0ea21348ec 20
+providers/alibaba-token-plan-cn/models/deepseek-v4-pro.toml
+  s_fe59d73c51f1c9::t_b9e7b4df4a2181 20
+providers/alibaba-token-plan-cn/models/glm-5.toml
+  s_fe59d73c51f1c9::t_40c7bba6142352 2-3,5
+providers/alibaba-token-plan-cn/models/happyhorse-1.1-i2v.toml
+  s_fe59d73c51f1c9::t_8f98ff90d95fe6 1-30
+providers/alibaba-token-plan-cn/models/happyhorse-1.1-r2v.toml
+  s_fe59d73c51f1c9::t_67c8ecd8de3e80 1-30
+providers/alibaba-token-plan-cn/models/happyhorse-1.1-t2v.toml
+  s_fe59d73c51f1c9::t_51660bc7c2e1cf 1-31
+providers/alibaba-token-plan-cn/models/kimi-k2.5.toml
+  s_fe59d73c51f1c9::t_4ef977c6c7f1b4 5-10,31
+providers/alibaba-token-plan-cn/models/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_161fcc4c5f15a5 5-11
+providers/alibaba-token-plan-cn/models/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_e10bee6b8463e4 5-8
+providers/alibaba-token-plan-cn/models/qwen3.6-flash.toml
+  s_fe59d73c51f1c9::t_25967182343cb9 4-6,8,18-21
+providers/alibaba-token-plan-cn/models/qwen3.6-plus.toml
+  s_fe59d73c51f1c9::t_b8b028efb3f4e1 4-6,8-10,15-16,22-25
+providers/alibaba-token-plan-cn/models/qwen3.7-max.toml
+  s_fe59d73c51f1c9::t_acbbc2e7f2d15f 6-11,16-17,25-27,33-35
+providers/alibaba-token-plan-cn/models/qwen3.7-plus.toml
+  s_fe59d73c51f1c9::t_ff5823c1ed2f80 6-11,16-17,25-27,33-35
+providers/alibaba-token-plan-cn/models/qwen3.8-max-preview.toml
+  s_fe59d73c51f1c9::t_a417a01dd1921a 1-36
+providers/alibaba-token-plan-cn/provider.toml
+  s_fe59d73c51f1c9::t_932fdd2e9d273a 1-7,13-14,19-22
+providers/alibaba-token-plan/models/MiniMax-M2.5.toml
+  s_fe59d73c51f1c9::t_cc1a542c878471 5-6,24
+providers/alibaba-token-plan/models/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_ae2832d2bcf318 19
+providers/alibaba-token-plan/models/deepseek-v4-pro.toml
+  s_fe59d73c51f1c9::t_54d5b3a0801879 19
+providers/alibaba-token-plan/models/glm-5.toml
+  s_fe59d73c51f1c9::t_0e7af237ef8e21 2-3,5
+providers/alibaba-token-plan/models/happyhorse-1.1-i2v.toml
+  s_fe59d73c51f1c9::t_b197e954102ce9 1-30
+providers/alibaba-token-plan/models/happyhorse-1.1-r2v.toml
+  s_fe59d73c51f1c9::t_deea730bdae32e 1-30
+providers/alibaba-token-plan/models/happyhorse-1.1-t2v.toml
+  s_fe59d73c51f1c9::t_343da8f17cf4c4 1-32
+providers/alibaba-token-plan/models/kimi-k2.5.toml
+  s_fe59d73c51f1c9::t_2cc49ab07778e0 5-10,29
+providers/alibaba-token-plan/models/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_fa6c6e89e5b9c5 5-11
+providers/alibaba-token-plan/models/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_d58941bf7897d8 5-8
+providers/alibaba-token-plan/models/qwen3.6-flash.toml
+  s_fe59d73c51f1c9::t_8f7b73cb7a546a 4-6,8,13-16
+providers/alibaba-token-plan/models/qwen3.6-plus.toml
+  s_fe59d73c51f1c9::t_2c3c97760588d0 4-6,8-11,16-20
+providers/alibaba-token-plan/models/qwen3.7-max.toml
+  s_fe59d73c51f1c9::t_26f7278c75c66b 6-11,16,19-21,27-29
+providers/alibaba-token-plan/models/qwen3.7-plus.toml
+  s_fe59d73c51f1c9::t_2260e44ca73933 6-11,16,19-21,27-29
+providers/alibaba-token-plan/models/qwen3.8-max-preview.toml
+  s_fe59d73c51f1c9::t_9907abc6b1ed38 1-36
+providers/alibaba-token-plan/provider.toml
+  s_fe59d73c51f1c9::t_4fd2414068c9b1 1-7,13-14,19-22
+providers/amazon-bedrock/models/anthropic.claude-opus-4-1-20250805-v1:0.toml
+  s_fe59d73c51f1c9::t_a7459a871a8805 3
+providers/amazon-bedrock/models/anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_cf7665e87ad625 1-8
+providers/amazon-bedrock/models/au.anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_f00e249e016a68 1-9
+providers/amazon-bedrock/models/eu.anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_d1cf1aa09beebe 1-9
+providers/amazon-bedrock/models/global.anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_5261c42babb86b 1-9
+providers/amazon-bedrock/models/jp.anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_a435e23722a29d 1-9
+providers/amazon-bedrock/models/us.anthropic.claude-opus-4-1-20250805-v1:0.toml
+  s_fe59d73c51f1c9::t_3525929c378521 3
+providers/amazon-bedrock/models/us.anthropic.claude-opus-5.toml
+  s_fe59d73c51f1c9::t_6e159599a6111d 1-9
+providers/ambient/models/deepseek/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_60c967383f3d0a 1-19
+providers/ambient/models/moonshotai/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_93782f0fe859c4 1-2,8-10
+providers/ambient/models/stepfun/step-3.7-flash.toml
+  s_fe59d73c51f1c9::t_05ec66445c09be 5-8
+providers/ambient/models/xiaomi/mimo-v2.5.toml
+  s_fe59d73c51f1c9::t_5db7c849eb3f0e 1-12
+providers/ambient/provider.toml
+  s_fe59d73c51f1c9::t_5b5057a3516cc4 1-3,6-9
+providers/anthropic/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_215f030196fefe 1-16
+providers/azure-cognitive-services/models/claude-opus-4-6.toml
+  s_fe59d73c51f1c9::t_aeafb7f06a6d70 1-2,7,33
+providers/azure-cognitive-services/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_8c45d0b05ce22a 1-12
+providers/azure/models/claude-opus-4-6.toml
+  s_fe59d73c51f1c9::t_af651bec4d3997 1-2,7,30
+providers/azure/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_833e1b67eb6e72 1-2,6-9,11-13
+providers/azure/models/cohere-command-a.toml
+  s_fe59d73c51f1c9::t_68c1a121e2a1ef 19-20
+providers/azure/models/gpt-5-codex.toml
+  s_fe59d73c51f1c9::t_a3846cbb2fe05c 21
+providers/azure/models/gpt-5-mini.toml
+  s_fe59d73c51f1c9::t_a32e230017abfa 20-21
+providers/azure/models/gpt-5-nano.toml
+  s_fe59d73c51f1c9::t_7242afd50ead58 20-21
+providers/azure/models/gpt-5.1-codex-mini.toml
+  s_fe59d73c51f1c9::t_4e0b1f3b17eb06 22
+providers/azure/models/gpt-5.1-codex.toml
+  s_fe59d73c51f1c9::t_76a7e70f679afb 22
+providers/azure/models/gpt-5.1.toml
+  s_fe59d73c51f1c9::t_9af1dccdbf7dea 21-22
+providers/azure/models/gpt-5.2-codex.toml
+  s_fe59d73c51f1c9::t_a9df9baec58fd4 22
+providers/azure/models/gpt-5.2.toml
+  s_fe59d73c51f1c9::t_dd3b2622d48514 22
+providers/azure/models/gpt-5.3-codex.toml
+  s_fe59d73c51f1c9::t_0a3c74145562ff 22
+providers/azure/models/gpt-5.toml
+  s_fe59d73c51f1c9::t_31a710b09f7ce8 20-21
+providers/azure/models/llama-4-maverick-17b-128e-instruct-fp8.toml
+  s_fe59d73c51f1c9::t_f3f16ea087fad3 18-19
+providers/azure/models/model-router.toml
+  s_fe59d73c51f1c9::t_40c8e9d608d6ef 16
+providers/baseten/models/zai-org/GLM-5.2-Fast.toml
+  s_fe59d73c51f1c9::t_897e81d92fb2c9 1-22
+providers/baseten/models/zai-org/GLM-5.2.toml
+  s_fe59d73c51f1c9::t_7c78d9b364bc3d 19-20
+providers/chutes/models/Nemotron-3-Nano-Omni-30B-TEE.toml
+  s_fe59d73c51f1c9::t_9d78be785a0d9b 1-5,13-15,19
+providers/chutes/models/zai-org/GLM-5.2-TEE.toml
+  s_fe59d73c51f1c9::t_78ac1e36b3c33a 9-11
+providers/cline-pass/models/cline-pass/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_94e444af91aaad 1-7
+providers/cline-pass/models/cline-pass/deepseek-v4-pro.toml
+  s_fe59d73c51f1c9::t_91149bcc083e47 1-7
+providers/cline-pass/models/cline-pass/glm-5.2.toml
+  s_fe59d73c51f1c9::t_d0b5124ac38b87 1-7
+providers/cline-pass/models/cline-pass/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_8b29aeb3f686f9 1-7
+providers/cline-pass/models/cline-pass/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_a06695a0b88034 1-7
+providers/cline-pass/models/cline-pass/kimi-k3.toml
+  s_fe59d73c51f1c9::t_6487961429d596 1-9
+providers/cline-pass/models/cline-pass/mimo-v2.5-pro.toml
+  s_fe59d73c51f1c9::t_359caadd7875f5 1-7
+providers/cline-pass/models/cline-pass/mimo-v2.5.toml
+  s_fe59d73c51f1c9::t_ca9bc997a03979 1-7
+providers/cline-pass/models/cline-pass/minimax-m3.toml
+  s_fe59d73c51f1c9::t_7092ed9425e7e2 1-7
+providers/cline-pass/models/cline-pass/qwen3.7-max.toml
+  s_fe59d73c51f1c9::t_ae5b56aebf6bc9 1-8
+providers/cline-pass/models/cline-pass/qwen3.7-plus.toml
+  s_fe59d73c51f1c9::t_0892467a47566f 1-15
+providers/cline-pass/provider.toml
+  s_fe59d73c51f1c9::t_d84b2872f8605b 1-10
+providers/cloudflare-ai-gateway/models/moonshotai/kimi-k3.toml
+  s_fe59d73c51f1c9::t_dcd51035507dff 1-18
+providers/cortecs/models/hy3.toml
+  s_fe59d73c51f1c9::t_19398bdad88f91 1-17
+providers/crossmodel/models/moonshot/kimi-k3.toml
+  s_fe59d73c51f1c9::t_7d664bbb58eeb8 1,5,8-11,14
+providers/crossmodel/models/tencent/hy3.toml
+  s_fe59d73c51f1c9::t_ae8c7692985fd6 1-15
+providers/deepinfra/models/MiniMaxAI/MiniMax-M2.5.toml
+  s_fe59d73c51f1c9::t_0508612f283ead 12
+providers/deepinfra/models/nvidia/Llama-3.3-Nemotron-Super-49B-v1.5.toml
+  s_fe59d73c51f1c9::t_e5c4e327aa61e0 3-4
+providers/dinference/models/glm-5.2.toml
+  s_fe59d73c51f1c9::t_f27863a0912d67 2,8-12
+providers/empiriolabs/models/glm-5-1.toml
+  s_fe59d73c51f1c9::t_f4fc902a36669f 26
+providers/empiriolabs/models/kimi-k3.toml
+  s_fe59d73c51f1c9::t_f411ed3dfa0a92 5
+providers/empiriolabs/models/minimax-m3.toml
+  s_fe59d73c51f1c9::t_0b0a2965c281e4 18
+providers/fireworks-ai/models/accounts/fireworks/models/minimax-m3.toml
+  s_fe59d73c51f1c9::t_4a978e833d379f 28
+providers/github-copilot/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_57d862c976d1e3 1,3,6-9,12-14
+providers/github-copilot/models/gpt-5.6-luna.toml
+  s_fe59d73c51f1c9::t_aad7653db43c7c 8,15
+providers/github-copilot/models/gpt-5.6-sol.toml
+  s_fe59d73c51f1c9::t_bff59add55d1c8 8,15
+providers/github-copilot/models/gpt-5.6-terra.toml
+  s_fe59d73c51f1c9::t_8adfee04e71ee4 8,15
+providers/google-vertex-anthropic/models/claude-opus-5@default.toml
+  s_fe59d73c51f1c9::t_7e6b1f7b32ef8a 1-8
+providers/google-vertex/models/claude-opus-5@default.toml
+  s_fe59d73c51f1c9::t_ecda255ef3e2a7 1-2,5-8
+providers/google-vertex/models/deepseek-ai/deepseek-v3.1-maas.toml
+  s_fe59d73c51f1c9::t_e0a03fb2e39cc0 16
+providers/google-vertex/models/deepseek-ai/deepseek-v3.2-maas.toml
+  s_fe59d73c51f1c9::t_3aedcc73262f5b 16
+providers/google-vertex/models/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_23903d924a04f0 1-10
+providers/google-vertex/models/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_4f31bad422d70b 1-11
+providers/google-vertex/models/meta/llama-3.3-70b-instruct-maas.toml
+  s_fe59d73c51f1c9::t_cf804b9e67e338 16
+providers/google-vertex/models/moonshotai/kimi-k2-thinking-maas.toml
+  s_fe59d73c51f1c9::t_ee7e060533244f 17
+providers/google-vertex/models/openai/gpt-oss-20b-maas.toml
+  s_fe59d73c51f1c9::t_9a4da8155a93ae 12
+providers/google-vertex/models/qwen/qwen3-235b-a22b-instruct-2507-maas.toml
+  s_fe59d73c51f1c9::t_c263141e788029 16
+providers/google-vertex/models/zai-org/glm-4.7-maas.toml
+  s_fe59d73c51f1c9::t_df912095e45857 17
+providers/google-vertex/models/zai-org/glm-5-maas.toml
+  s_fe59d73c51f1c9::t_1e8b512fe085aa 15
+providers/google/models/deep-research-max-preview-04-2026.toml
+  s_fe59d73c51f1c9::t_20ba7b210803c5 1-30
+providers/google/models/deep-research-preview-04-2026.toml
+  s_fe59d73c51f1c9::t_60907421886a0a 1-23
+providers/google/models/gemini-2.5-computer-use-preview-10-2025.toml
+  s_fe59d73c51f1c9::t_b519e531b8dcf6 1-22
+providers/google/models/gemini-3-pro-image.toml
+  s_fe59d73c51f1c9::t_fe6ad1a0773dce 1-17
+providers/google/models/gemini-3.1-flash-image.toml
+  s_fe59d73c51f1c9::t_88c48d965aeb01 1-17
+providers/google/models/gemini-3.1-flash-lite-image.toml
+  s_fe59d73c51f1c9::t_3af5a28f6655c4 1-17
+providers/google/models/gemini-3.1-flash-live-preview.toml
+  s_fe59d73c51f1c9::t_5caf9fdc3cdb17 1-16
+providers/google/models/gemini-3.1-flash-tts-preview.toml
+  s_fe59d73c51f1c9::t_a07aa9d0eb2279 1-10
+providers/google/models/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_501923f7db8ea7 1-13
+providers/google/models/gemini-3.5-live-translate-preview.toml
+  s_fe59d73c51f1c9::t_9d4288699975a3 1-18
+providers/google/models/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_8932dced7aff50 1-14
+providers/google/models/gemini-embedding-2.toml
+  s_fe59d73c51f1c9::t_6471426ec72c74 1-18
+providers/google/models/gemini-robotics-er-1.6-preview.toml
+  s_fe59d73c51f1c9::t_d5ea0b23a37b2e 1-18
+providers/google/models/lyria-3-clip-preview.toml
+  s_fe59d73c51f1c9::t_e957d0e727666e 1-16
+providers/google/models/lyria-3-pro-preview.toml
+  s_fe59d73c51f1c9::t_74caf4254ab01d 1-14
+providers/google/models/veo-3.1-fast-generate-preview.toml
+  s_fe59d73c51f1c9::t_29e0d9f8cf7e60 1-20
+providers/google/models/veo-3.1-generate-preview.toml
+  s_fe59d73c51f1c9::t_183a896f5ca097 1-12
+providers/google/models/veo-3.1-lite-generate-preview.toml
+  s_fe59d73c51f1c9::t_e721df5e51d7f1 1-15
+providers/hetzner/logo.svg
+  s_fe59d73c51f1c9::t_f1cac4c72cc6ca 1-3
+providers/hetzner/models/Qwen/Qwen3.6-35B-A3B-FP8.toml
+  s_fe59d73c51f1c9::t_bdf6117e69fe2c 1-4,9,14-17
+providers/hetzner/provider.toml
+  s_fe59d73c51f1c9::t_c0019084a95c9e 1-5
+providers/huggingface/models/XiaomiMiMo/MiMo-V2.5-Pro.toml
+  s_fe59d73c51f1c9::t_740afe17b543ed 1-12,16-22
+providers/huggingface/models/XiaomiMiMo/MiMo-V2.5.toml
+  s_fe59d73c51f1c9::t_564f7e9910a12f 1-34
+providers/kenari/models/claude-fable-5.toml
+  s_fe59d73c51f1c9::t_58b7f26a06677b 1,5,9
+providers/kenari/models/claude-sonnet-5.toml
+  s_fe59d73c51f1c9::t_77c27bcf9455d6 1-9
+providers/kenari/models/gemini-2-5-flash-lite.toml
+  s_fe59d73c51f1c9::t_67ce5badbcdade 1-6
+providers/kenari/models/gemini-2-5-flash.toml
+  s_fe59d73c51f1c9::t_923b838cfbbbb0 1-6
+providers/kenari/models/gemini-3-1-flash-lite.toml
+  s_fe59d73c51f1c9::t_745ab33837437c 1-9
+providers/kenari/models/glm-4-7-flash:free.toml
+  s_fe59d73c51f1c9::t_3c8b4eea05cfea 1-7
+providers/kenari/models/gpt-5-6-luna.toml
+  s_fe59d73c51f1c9::t_3e15e30335173a 1-10
+providers/kenari/models/gpt-5-6-sol.toml
+  s_fe59d73c51f1c9::t_949efe7a39aac9 1-10
+providers/kenari/models/gpt-5-6-terra.toml
+  s_fe59d73c51f1c9::t_47f5989b4ced29 1-10
+providers/kenari/models/grok-4-5.toml
+  s_fe59d73c51f1c9::t_1de9b219b32775 1,5
+providers/kenari/models/kimi-k2-6:free.toml
+  s_fe59d73c51f1c9::t_a44da93b2d847c 1-7
+providers/kenari/models/kimi-k2-7-code:free.toml
+  s_fe59d73c51f1c9::t_d321497d7fb1f6 1-7
+providers/kenari/models/kimi-k3.toml
+  s_fe59d73c51f1c9::t_a4232576782af3 1,5
+providers/kenari/models/mimo-v2-5:free.toml
+  s_fe59d73c51f1c9::t_99f51e5a8ce9d1 1-7
+providers/kenari/models/nemotron-3-nano-30b-a3b.toml
+  s_fe59d73c51f1c9::t_6324a600d19383 1-6
+providers/kenari/models/nemotron-3-super-120b-a12b.toml
+  s_fe59d73c51f1c9::t_5500b3768812fb 1-9
+providers/kenari/models/nemotron-3-super-120b-a12b:free.toml
+  s_fe59d73c51f1c9::t_148c24f0855faf 1-10
+providers/kenari/models/nemotron-3-ultra-550b-a55b.toml
+  s_fe59d73c51f1c9::t_a38431ffad000b 1-9
+providers/kimi-for-coding/models/k3-256k.toml
+  s_fe59d73c51f1c9::t_cc9616c5ed44ee 1-25
+providers/llmgateway/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_ad0adf2ffa0dfe 1-8
+providers/llmgateway/models/cosmos3-super-reasoner.toml
+  s_fe59d73c51f1c9::t_a91270e079f329 1-29
+providers/llmgateway/models/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_584ae9484cb187 1-8
+providers/llmgateway/models/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_61ca37a4f111cb 1-8
+providers/llmgateway/models/gemma-3-27b.toml
+  s_fe59d73c51f1c9::t_1b1f9d978c132c 1-5,10,14-15,18-19
+providers/llmgateway/models/glm-5.2.toml
+  s_fe59d73c51f1c9::t_30f8267e27df25 1-5,12-16,25
+providers/llmgateway/models/hermes-4-405b.toml
+  s_fe59d73c51f1c9::t_09889e9f368665 1-30
+providers/llmgateway/models/hermes-4-70b.toml
+  s_fe59d73c51f1c9::t_ac351bb573e42d 1-30
+providers/llmgateway/models/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_3cf546a923d14f 1-4,6-9,15-17
+providers/llmgateway/models/minicpm-v-4.5.toml
+  s_fe59d73c51f1c9::t_b047f9d8d13023 1-4,9,13-14,17-18
+providers/llmgateway/models/minimax-m2.7.toml
+  s_fe59d73c51f1c9::t_7900763a720881 1-4,6-9,12-14
+providers/llmgateway/models/minimax-m3.toml
+  s_fe59d73c51f1c9::t_436a2b130f0e30 1-4,6-9,17
+providers/llmgateway/models/muse-spark-1.1.toml
+  s_fe59d73c51f1c9::t_e68192c7b7972b 2
+providers/llmgateway/models/nemotron-3-nano-30b.toml
+  s_fe59d73c51f1c9::t_5c0ffe322b0226 1-30
+providers/llmgateway/models/nemotron-3-nano-omni.toml
+  s_fe59d73c51f1c9::t_ea7687fae068d7 1-30
+providers/llmgateway/models/nemotron-3-super-120b.toml
+  s_fe59d73c51f1c9::t_de2f6e64545eb8 1-30
+providers/llmgateway/models/nemotron-3-ultra-550b.toml
+  s_fe59d73c51f1c9::t_2c6e313421fb63 1-4,8,16
+providers/llmgateway/models/qwen2-5-vl-72b-instruct.toml
+  s_fe59d73c51f1c9::t_fa813f5f6b7472 4-5,8
+providers/llmgateway/models/qwen3-235b-a22b-thinking-2507.toml
+  s_fe59d73c51f1c9::t_63d085d560fd28 1-4,17-19,21-22
+providers/llmgateway/models/qwen3-32b.toml
+  s_fe59d73c51f1c9::t_55b24d23413ace 1-4,6-8,16
+providers/meta/models/muse-spark-1.1.toml
+  s_fe59d73c51f1c9::t_acce074d07f701 7
+providers/nebius/models/MiniMaxAI/MiniMax-M3.toml
+  s_fe59d73c51f1c9::t_282f7c07ee2ec9 1,3,6-7,10-11
+providers/nebius/models/moonshotai/Kimi-K2.7-Code.toml
+  s_fe59d73c51f1c9::t_fd5faac413b123 1-18
+providers/novita-ai/models/moonshotai/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_fb6210bcb63f61 1-16
+providers/novita-ai/models/moonshotai/kimi-k3.toml
+  s_fe59d73c51f1c9::t_b3760735937bbc 1-20
+providers/ofox/logo.svg
+  s_fe59d73c51f1c9::t_a12f4a2091607f 1-5
+providers/ofox/models/anthropic/claude-fable-5.toml
+  s_fe59d73c51f1c9::t_acd3af7f856de7 1-12
+providers/ofox/models/anthropic/claude-opus-4.8.toml
+  s_fe59d73c51f1c9::t_d938812e68b3c4 1-12
+providers/ofox/models/anthropic/claude-sonnet-5.toml
+  s_fe59d73c51f1c9::t_e2a59e6bd5c8b7 1-12
+providers/ofox/models/bailian/qwen3.7-max.toml
+  s_fe59d73c51f1c9::t_07a3e0a9c3cac9 1-8
+providers/ofox/models/deepseek/deepseek-v4-pro.toml
+  s_fe59d73c51f1c9::t_ee4275af980e51 1-7
+providers/ofox/models/google/gemini-3.1-pro-preview.toml
+  s_fe59d73c51f1c9::t_83557aedd49d86 1-7
+providers/ofox/models/moonshotai/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_9ddfffdaa722eb 1-2,5,7
+providers/ofox/models/openai/gpt-5.5.toml
+  s_fe59d73c51f1c9::t_e84e675af43b29 1-11
+providers/ofox/models/openai/gpt-5.6-luna.toml
+  s_fe59d73c51f1c9::t_3e9b9beb7739f9 1-12
+providers/ofox/models/openai/gpt-5.6-sol.toml
+  s_fe59d73c51f1c9::t_4207a5eae9b314 1-12
+providers/ofox/models/openai/gpt-5.6-terra.toml
+  s_fe59d73c51f1c9::t_5f2809c46d3701 1-12
+providers/ofox/models/x-ai/grok-4.3.toml
+  s_fe59d73c51f1c9::t_e616300065b500 1-7
+providers/ofox/models/z-ai/glm-5.2.toml
+  s_fe59d73c51f1c9::t_7440ecfbb38a5e 1-7
+providers/ofox/provider.toml
+  s_fe59d73c51f1c9::t_1cf131a7af4746 1-5
+providers/openai/models/gpt-3.5-turbo.toml
+  s_fe59d73c51f1c9::t_b0c18a2169c263 13
+providers/openai/models/gpt-4-turbo.toml
+  s_fe59d73c51f1c9::t_f9dfa690174543 13
+providers/openai/models/gpt-4.1-nano.toml
+  s_fe59d73c51f1c9::t_231193e0ce9169 13
+providers/openai/models/gpt-4.toml
+  s_fe59d73c51f1c9::t_51e226aad4ae68 13
+providers/openai/models/gpt-4o-2024-05-13.toml
+  s_fe59d73c51f1c9::t_5a7d587b579372 13
+providers/openai/models/gpt-image-1.toml
+  s_fe59d73c51f1c9::t_173d92e13ee218 3
+providers/openai/models/o1-pro.toml
+  s_fe59d73c51f1c9::t_f1824d680e3a7c 15
+providers/openai/models/o1.toml
+  s_fe59d73c51f1c9::t_af8a5db251d8aa 14
+providers/openai/models/o3-mini.toml
+  s_fe59d73c51f1c9::t_feb5e9492b5fcf 14
+providers/openai/models/o4-mini.toml
+  s_fe59d73c51f1c9::t_4b9aaff836a205 14
+providers/opencode-go/models/deepseek-v4-flash.toml
+  s_fe59d73c51f1c9::t_783b6396e27d46 19-21
+providers/opencode-go/models/grok-4.5.toml
+  s_fe59d73c51f1c9::t_ffea76d662a1a8 17-19
+providers/opencode-go/models/hy3.toml
+  s_fe59d73c51f1c9::t_8aa98411c2b59a 1-10
+providers/opencode-go/models/kimi-k3.toml
+  s_fe59d73c51f1c9::t_75e39bcc17ed99 2
+providers/opencode/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_50be25f6fe2e71 1-11
+providers/opencode/models/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_285e0d45c364c1 1-10
+providers/opencode/models/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_4a0c552de41c55 1-11
+providers/opencode/models/grok-4.5.toml
+  s_fe59d73c51f1c9::t_8a1628b7794b38 17-19
+providers/opencode/models/hy3-free.toml
+  s_fe59d73c51f1c9::t_df849289922f4c 12
+providers/opencode/models/laguna-s-2.1-free.toml
+  s_fe59d73c51f1c9::t_fdd28f3e6f010a 1-15
+providers/opencode/models/ling-3.0-flash-free.toml
+  s_fe59d73c51f1c9::t_472e5a399aa3f0 1-27
+providers/openrouter/models/anthracite-org/magnum-v4-72b.toml
+  s_fe59d73c51f1c9::t_ab8ea77962c386 18
+providers/openrouter/models/anthropic/claude-opus-5-fast.toml
+  s_fe59d73c51f1c9::t_0332066ac43124 1-14
+providers/openrouter/models/anthropic/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_a1b6ed9598f7a0 1-13
+providers/openrouter/models/arcee-ai/trinity-large-thinking.toml
+  s_fe59d73c51f1c9::t_9db1e37e56eff9 10
+providers/openrouter/models/baidu/ernie-4.5-vl-424b-a47b.toml
+  s_fe59d73c51f1c9::t_66379e4d860c74 20
+providers/openrouter/models/deepseek/deepseek-chat.toml
+  s_fe59d73c51f1c9::t_c3a8681908acdc 10
+providers/openrouter/models/deepseek/deepseek-r1-distill-llama-70b.toml
+  s_fe59d73c51f1c9::t_def88ce65e599e 20
+providers/openrouter/models/deepseek/deepseek-v3.1-terminus.toml
+  s_fe59d73c51f1c9::t_5964444b61bb0a 23
+providers/openrouter/models/google/gemini-3-pro-image.toml
+  s_fe59d73c51f1c9::t_63d269f9cf38f3 4,12-14
+providers/openrouter/models/google/gemini-3.1-flash-lite-image.toml
+  s_fe59d73c51f1c9::t_10ecb41d131134 1,14
+providers/openrouter/models/google/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_178926024fe2cf 1-13
+providers/openrouter/models/google/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_c0f4aaade87a9d 1-12
+providers/openrouter/models/google/gemma-3-27b-it.toml
+  s_fe59d73c51f1c9::t_6b9cc8165cda8a 15-17,20
+providers/openrouter/models/google/gemma-4-26b-a4b-it.toml
+  s_fe59d73c51f1c9::t_9b6baace1c7a77 7-9,12
+providers/openrouter/models/google/gemma-4-31b-it.toml
+  s_fe59d73c51f1c9::t_c745db58afbaba 7-8
+providers/openrouter/models/google/lyria-3-clip-preview.toml
+  s_fe59d73c51f1c9::t_7f9ecebf90121d 1
+providers/openrouter/models/google/lyria-3-pro-preview.toml
+  s_fe59d73c51f1c9::t_f6b2b516b698f9 1
+providers/openrouter/models/gryphe/mythomax-l2-13b.toml
+  s_fe59d73c51f1c9::t_ba26af43d02444 18
+providers/openrouter/models/inclusionai/ling-3.0-flash:free.toml
+  s_fe59d73c51f1c9::t_33fdb69dc2a1e1 1-26
+providers/openrouter/models/kwaipilot/kat-coder-pro-v2.toml
+  s_fe59d73c51f1c9::t_1f643128ba1373 19
+providers/openrouter/models/mancer/weaver.toml
+  s_fe59d73c51f1c9::t_8d612c97ee075f 15-16
+providers/openrouter/models/meituan/longcat-2.0.toml
+  s_fe59d73c51f1c9::t_6510fa7f9fa5dc 1-27
+providers/openrouter/models/meta-llama/llama-3.2-1b-instruct.toml
+  s_fe59d73c51f1c9::t_2d8224f2bcc53f 19
+providers/openrouter/models/meta-llama/llama-3.2-3b-instruct.toml
+  s_fe59d73c51f1c9::t_750e0272dd65c6 15-16,20
+providers/openrouter/models/meta-llama/llama-4-scout.toml
+  s_fe59d73c51f1c9::t_c75eead9541b26 19
+providers/openrouter/models/meta-llama/llama-guard-4-12b.toml
+  s_fe59d73c51f1c9::t_f31673a7077b3c 19
+providers/openrouter/models/microsoft/wizardlm-2-8x22b.toml
+  s_fe59d73c51f1c9::t_e9c61b13f6b8b1 18
+providers/openrouter/models/mistralai/mistral-small-3.2-24b-instruct.toml
+  s_fe59d73c51f1c9::t_e3ff687946254b 20
+providers/openrouter/models/moonshotai/kimi-k2-thinking.toml
+  s_fe59d73c51f1c9::t_39c648a07e485b 11-14
+providers/openrouter/models/moonshotai/kimi-k2.6.toml
+  s_fe59d73c51f1c9::t_5ebca45cc13821 8-10
+providers/openrouter/models/moonshotai/kimi-k2.7-code.toml
+  s_fe59d73c51f1c9::t_d401629a98f943 6-8
+providers/openrouter/models/moonshotai/kimi-k3.toml
+  s_fe59d73c51f1c9::t_4b66d2bcfc6c29 6
+providers/openrouter/models/nvidia/nemotron-3-super-120b-a12b.toml
+  s_fe59d73c51f1c9::t_8b194918a74284 12-13
+providers/openrouter/models/nvidia/nemotron-3-ultra-550b-a55b.toml
+  s_fe59d73c51f1c9::t_5e0ae3f817c035 12-14,17
+providers/openrouter/models/openai/gpt-oss-20b.toml
+  s_fe59d73c51f1c9::t_69b552d9919e8a 9-10
+providers/openrouter/models/poolside/laguna-s-2.1.toml
+  s_fe59d73c51f1c9::t_a731427477d43e 1-5,7,9,12,15-17,20
+providers/openrouter/models/poolside/laguna-s-2.1:free.toml
+  s_fe59d73c51f1c9::t_b6934078c04467 1-5,7,12,19-20
+providers/openrouter/models/qwen/qwen-2.5-72b-instruct.toml
+  s_fe59d73c51f1c9::t_2e69fffbf291e0 19
+providers/openrouter/models/qwen/qwen-2.5-7b-instruct.toml
+  s_fe59d73c51f1c9::t_b1293e74883532 19
+providers/openrouter/models/qwen/qwen-2.5-coder-32b-instruct.toml
+  s_fe59d73c51f1c9::t_cccdb2b6e61e16 19
+providers/openrouter/models/qwen/qwen2.5-vl-72b-instruct.toml
+  s_fe59d73c51f1c9::t_f155f5d07190ba 20
+providers/openrouter/models/qwen/qwen3-14b.toml
+  s_fe59d73c51f1c9::t_33190731f61a85 18-19,22-23
+providers/openrouter/models/qwen/qwen3-235b-a22b-thinking-2507.toml
+  s_fe59d73c51f1c9::t_71aa7a968eb5a3 16-17,21
+providers/openrouter/models/qwen/qwen3-30b-a3b-thinking-2507.toml
+  s_fe59d73c51f1c9::t_9567339d1637fa 20
+providers/openrouter/models/qwen/qwen3-30b-a3b.toml
+  s_fe59d73c51f1c9::t_f05935e51e84df 18-19,23
+providers/openrouter/models/qwen/qwen3-coder.toml
+  s_fe59d73c51f1c9::t_630af83e714ed8 20
+providers/openrouter/models/qwen/qwen3-vl-235b-a22b-instruct.toml
+  s_fe59d73c51f1c9::t_3bd3fe113f51a3 20
+providers/openrouter/models/qwen/qwen3-vl-30b-a3b-instruct.toml
+  s_fe59d73c51f1c9::t_21880fceb652b8 15-16,20
+providers/openrouter/models/qwen/qwen3-vl-30b-a3b-thinking.toml
+  s_fe59d73c51f1c9::t_aca3a762563d42 13,20
+providers/openrouter/models/qwen/qwen3-vl-32b-instruct.toml
+  s_fe59d73c51f1c9::t_2ecb22a5fa348e 18
+providers/openrouter/models/qwen/qwen3-vl-8b-instruct.toml
+  s_fe59d73c51f1c9::t_21228364427ce8 18
+providers/openrouter/models/qwen/qwen3-vl-8b-thinking.toml
+  s_fe59d73c51f1c9::t_90fbbee481df36 19
+providers/openrouter/models/qwen/qwen3.6-27b.toml
+  s_fe59d73c51f1c9::t_dcb6b85946f38e 7-11
+providers/openrouter/models/qwen/qwen3.7-plus.toml
+  s_fe59d73c51f1c9::t_8aa031ec9cee46 20-22
+providers/openrouter/models/stepfun/step-3.7-flash.toml
+  s_fe59d73c51f1c9::t_e36a457c9963e3 12-14
+providers/openrouter/models/tencent/hy3.toml
+  s_fe59d73c51f1c9::t_50cafc3cd20e52 1,9-11,15
+providers/openrouter/models/thinkingmachines/inkling.toml
+  s_fe59d73c51f1c9::t_d1aae09f443ae2 1-15
+providers/openrouter/models/undi95/remm-slerp-l2-13b.toml
+  s_fe59d73c51f1c9::t_046f3b9a70c22d 19
+providers/openrouter/models/x-ai/grok-4.5.toml
+  s_fe59d73c51f1c9::t_0071fd25ae9a2f 10
+providers/openrouter/models/xiaomi/mimo-v2.5-pro.toml
+  s_fe59d73c51f1c9::t_00f6524d36fa12 7-9,14-16
+providers/openrouter/models/xiaomi/mimo-v2.5.toml
+  s_fe59d73c51f1c9::t_cce461636e03d1 14-16
+providers/openrouter/models/z-ai/glm-4.7-flash.toml
+  s_fe59d73c51f1c9::t_bf5a41c02f83f1 9,11-15
+providers/openrouter/models/z-ai/glm-5.1.toml
+  s_fe59d73c51f1c9::t_c3d335ac5be152 13
+providers/openrouter/models/z-ai/glm-5.2.toml
+  s_fe59d73c51f1c9::t_9b77b3a86658dd 11-13
+providers/openrouter/models/z-ai/glm-5.toml
+  s_fe59d73c51f1c9::t_682d45d31129d0 10-11
+providers/openrouter/models/~google/gemini-flash-latest.toml
+  s_fe59d73c51f1c9::t_d6d026fc421af2 22-23
+providers/openrouter/models/~moonshotai/kimi-latest.toml
+  s_fe59d73c51f1c9::t_6fd45a559f988c 15
+providers/openrouter/models/~x-ai/grok-latest.toml
+  s_fe59d73c51f1c9::t_a85273ed5c7c8e 20
+providers/poolside/models/poolside/laguna-m.1.toml
+  s_fe59d73c51f1c9::t_1440c7a8e88ecc 2-4
+providers/poolside/models/poolside/laguna-s-2.1.toml
+  s_fe59d73c51f1c9::t_96f72d96371f9d 1-13
+providers/poolside/models/poolside/laguna-xs-2.1.toml
+  s_fe59d73c51f1c9::t_1c73e418ddbabd 2-4
+providers/tencent-token-plan/models/hy3.toml
+  s_fe59d73c51f1c9::t_23c9aafa9dfaf3 1-4
+providers/tencent-tokenhub/models/hy3-preview.toml
+  s_fe59d73c51f1c9::t_9c9c7a5b1d6187 1-4
+providers/tencent-tokenhub/models/hy3.toml
+  s_fe59d73c51f1c9::t_8183ad02c7f081 1-4
+providers/thinkingmachines/models/thinkingmachines/Inkling.toml
+  s_fe59d73c51f1c9::t_747e1233223110 1-20
+providers/thinkingmachines/models/thinkingmachines/Inkling:peft:262144.toml
+  s_fe59d73c51f1c9::t_d8178ea3d7d557 1-5,7,13-20
+providers/thinkingmachines/provider.toml
+  s_fe59d73c51f1c9::t_869afc062db0e2 1-5,8-10
+providers/togetherai/models/Qwen/Qwen3-235B-A22B-Instruct-2507-tput.toml
+  s_fe59d73c51f1c9::t_1780b9a1e0c06e 1-2,14
+providers/togetherai/models/Qwen/Qwen3.5-397B-A17B.toml
+  s_fe59d73c51f1c9::t_e17b52730e4ffa 6-7,19
+providers/togetherai/models/essentialai/Rnj-1-Instruct.toml
+  s_fe59d73c51f1c9::t_4b67f46a3483ac 1-2,14
+providers/togetherai/models/zai-org/GLM-5.1.toml
+  s_fe59d73c51f1c9::t_9acfa41343fafa 5-6,20
+providers/togetherai/models/zai-org/GLM-5.toml
+  s_fe59d73c51f1c9::t_acf4918c746c0a 5-6,19
+providers/venice/models/claude-opus-5-fast.toml
+  s_fe59d73c51f1c9::t_cbb3c79da49a22 1-4,9-12
+providers/venice/models/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_edd81d9f4afd04 1-14
+providers/venice/models/gemini-3-5-flash-lite.toml
+  s_fe59d73c51f1c9::t_094b58026cf706 1-16
+providers/venice/models/gemini-3-6-flash.toml
+  s_fe59d73c51f1c9::t_8469171493a918 1-14
+providers/venice/models/grok-4-5.toml
+  s_fe59d73c51f1c9::t_892b6cb661ae4f 12,18
+providers/venice/models/inkling.toml
+  s_fe59d73c51f1c9::t_b24bd6c7ecc69a 12-14
+providers/venice/models/kimi-k2-5.toml
+  s_fe59d73c51f1c9::t_672e68ce7020be 9-11
+providers/venice/models/qwen3-6-35b-a3b.toml
+  s_fe59d73c51f1c9::t_7129c130a62132 1-17
+providers/venice/models/seed-2-1-turbo.toml
+  s_fe59d73c51f1c9::t_a8392b8688f99e 1-5,8,11,14-15,19-20,23
+providers/vercel/models/alibaba/qwen3.6-plus.toml
+  s_fe59d73c51f1c9::t_61dc74d630e460 3-10
+providers/vercel/models/alibaba/qwen3.7-max.toml
+  s_fe59d73c51f1c9::t_a1c734bf202a0e 5-12,14-17
+providers/vercel/models/anthropic/claude-opus-5-fast.toml
+  s_fe59d73c51f1c9::t_73a089e8af0e75 1-10
+providers/vercel/models/anthropic/claude-opus-5.toml
+  s_fe59d73c51f1c9::t_20db78f85a3676 1-10
+providers/vercel/models/google/gemini-3.1-flash-lite-image.toml
+  s_fe59d73c51f1c9::t_bf87a68ae9d1c5 1
+providers/vercel/models/google/gemini-3.5-flash-lite.toml
+  s_fe59d73c51f1c9::t_4df4f9ee50b95b 1-16
+providers/vercel/models/google/gemini-3.6-flash.toml
+  s_fe59d73c51f1c9::t_2f087dddb67640 1-15
+providers/vercel/models/google/gemini-embedding-2.toml
+  s_fe59d73c51f1c9::t_87430e36799f7c 1,4
+providers/vercel/models/inclusionai/ling-3.0-flash-free.toml
+  s_fe59d73c51f1c9::t_1222eec067d857 1-5,7-8,10,13-14,17-18
+providers/vercel/models/meta/muse-spark-1.1.toml
+  s_fe59d73c51f1c9::t_1b74f3f6543e2b 8
+providers/vercel/models/moonshotai/kimi-k2.5.toml
+  s_fe59d73c51f1c9::t_1ee0d6dbd0c979 7-9
+providers/vercel/models/openai/gpt-5-codex.toml
+  s_fe59d73c51f1c9::t_a5aa6cd9d2ab37 1-12
+providers/vercel/models/poolside/laguna-s-2.1-free.toml
+  s_fe59d73c51f1c9::t_4ae9be713da589 1-19
+providers/vercel/models/poolside/laguna-s-2.1.toml
+  s_fe59d73c51f1c9::t_6e66e050fe02ad 1-21
+providers/vercel/models/tencent/hy3.toml
+  s_fe59d73c51f1c9::t_000fed9efd836a 1-22
+providers/vercel/models/thinkingmachines/inkling.toml
+  s_fe59d73c51f1c9::t_ac4453f96817a3 1,14-17
+providers/vercel/models/xai/grok-4.5.toml
+  s_fe59d73c51f1c9::t_6e00da43571935 3-6,11
+providers/vercel/models/xai/grok-imagine-video-1.5.toml
+  s_fe59d73c51f1c9::t_53daa569200d24 1
+providers/vercel/models/zai/glm-5.2-fast.toml
+  s_fe59d73c51f1c9::t_2a869547641175 1
+providers/wandb/models/MiniMaxAI/MiniMax-M3.toml
+  s_fe59d73c51f1c9::t_f393863c93ff7b 1-20
+providers/xai/models/grok-4.5.toml
+  s_fe59d73c51f1c9::t_97069f1cfaa7f0 10
+providers/xai/models/grok-imagine-video-1.5.toml
+  s_fe59d73c51f1c9::t_bc22df54c31e00 1-4
+providers/zenmux/models/moonshotai/kimi-k3-free.toml
+  s_fe59d73c51f1c9::t_b5eeebd0341330 1-21
+sync.md
+  s_fe59d73c51f1c9::t_ca81fee292a9e2 23-24,43,47-66,185-186,196,204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b06b1356d63cbe3fac92d2dab2d165547d15f2a2",
+  "prompts": {},
+  "sessions": {
+    "s_fe59d73c51f1c9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f9621-c29c-73b9-adf9-c018faba50d1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Michael Dwan <code@michaeldwan.com>"
+    }
+  }
+}
